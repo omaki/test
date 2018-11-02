@@ -1,0 +1,9 @@
+{
+  "Parameters": {
+    "AZCount": "3",
+    "ElbInternal": "false",
+    "EnvironmentName": "acceptance",
+    "Namespace": "mu-ec",
+    "SshAllow": "0.0.0.0/0"
+  }
+}

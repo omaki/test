@@ -1,0 +1,10 @@
+{
+  "Parameters": {
+    "ElbInternal": "false",
+    "ElbSubnetIds": "mu-ec-vpc-acceptance-ElbSubnetIds",
+    "EnvironmentName": "acceptance",
+    "Namespace": "mu-ec",
+    "ServiceDiscoveryName": "acceptance.mu-ec.local",
+    "VpcId": "mu-ec-vpc-acceptance-VpcId"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Parameters": {
+    "EC2InstanceProfileArn": "",
+    "ElbSecurityGroup": "",
+    "EnvironmentName": "acceptance",
+    "ImageId": "ami-09568291a9d6c804c",
+    "InstanceSubnetIds": "mu-ec-vpc-acceptance-InstanceSubnetIds",
+    "LaunchType": "FARGATE",
+    "Namespace": "mu-ec",
+    "SshAllow": "0.0.0.0/0",
+    "VpcId": "mu-ec-vpc-acceptance-VpcId"
+  }
+}
